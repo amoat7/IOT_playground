@@ -1,1 +1,4 @@
-# IOT_playground
+# Installing Compiler
+
+- sudo apt update
+- sudo apt install build-essential
